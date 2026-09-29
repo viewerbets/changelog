@@ -1,6 +1,5 @@
-# currently in the process of adding soon. This is NOT out yet!!!!!
-
 # V4 Release Notes
+(yes its out!)
 
 ## Added
 
@@ -9,6 +8,7 @@
 - VBP partnerships, streamer referrals, sponsored plans, hosting credit transfers, and partner revenue tracking.
 - Updated registration and sign-in experiences with Kick and email account support.
 - Dedicated leaderboards, expanded casino community features, and improved rain presentation and controls.
+- A fully custom update system for when updates are ready to be posted from the dev -> main server
 
 ## Changed
 
